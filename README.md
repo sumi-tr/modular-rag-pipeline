@@ -14,7 +14,7 @@ This project supports local LLM-based generation using Ollama.
 Download and install Ollama from:
 https://ollama.com
 
-# Verify installation:
+### Verify installation:
 
 ```bash
 
@@ -24,9 +24,9 @@ ollama pull phi3:mini
 
 ---
 
-## How to Run the Project
+### How to Run the Project
 
-## Add Your Documents
+### Add Your Documents
 
 Place one or more PDF files inside the `data/` directory before building the vector store.
 
@@ -35,6 +35,7 @@ data/
 ├── document1.pdf
 ├── document2.pdf
 
+---
 
 ### Step 1: Build the Vector Store (One-time)
 # Run this step whenever documents or embedding settings change.
