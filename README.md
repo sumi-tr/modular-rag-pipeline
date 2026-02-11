@@ -5,7 +5,7 @@ This repository implements a **modular, LLM-agnostic Retrieval-Augmented Generat
 The complete RAG pipeline was successfully tested using a "local lightweight LLM (`phi3:mini`) via Ollama", making it suitable for low-RAM systems.
 
 ---
-### Local LLM Setup (Optional)
+### Local LLM 
 
 This project supports local LLM-based generation using Ollama.
 
